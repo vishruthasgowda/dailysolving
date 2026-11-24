@@ -17,6 +17,9 @@ My Python solutions to LeetCode problems, organized by problem number and topic.
 | 2567 | Minimum Score by Changing Two Elements | Sorting / Greedy | Medium |
 | 3041 | Maximize Consecutive Elements in an Array After Modification | Dynamic Programming | Hard |
 | 3331 | Find Subtree Sizes After Changes | Trees / DFS | Medium |
+| 25   | Reverse Nodes in k-Group             | Linked List | Hard |
+| 3411 | Maximum Subarray With Equal Products | Array, Math  | Easy |
+
 
 ## Language
 
@@ -70,6 +73,12 @@ More solutions will be added as I solve new problems.
 
 - **24. Swap Nodes in Pairs** — `24_Swap_Nodes_in_Pairs.py`
 - **1352. Product of the Last K Numbers** — `1352_Product_of_the_Last_K_Numbers.py`
+
+## Solutions Added – November 24, 2026
+
+- [25. Reverse Nodes in k-Group](25_Reverse_Nodes_in_K_Group.py) – Linked List – Hard
+- [3411. Maximum Subarray With Equal Products](3411_Maximum_Subarray_With_Equal_Products.py) – Array, Math – Easy
+
 
 *Note: Times above are local file modification times (IST), not verified LeetCode submission timestamps.*
 
