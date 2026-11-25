@@ -19,6 +19,8 @@ My Python solutions to LeetCode problems, organized by problem number and topic.
 | 3331 | Find Subtree Sizes After Changes | Trees / DFS | Medium |
 | 25   | Reverse Nodes in k-Group             | Linked List | Hard |
 | 3411 | Maximum Subarray With Equal Products | Array, Math  | Easy |
+| 26 | Remove Duplicates from Sorted Array | Two Pointers | Easy |
+| 3934 | Smallest Unique Subarray | Suffix Array / LCP | Hard |
 
 
 ## Language
@@ -78,6 +80,11 @@ More solutions will be added as I solve new problems.
 
 - [25. Reverse Nodes in k-Group](25_Reverse_Nodes_in_K_Group.py) – Linked List – Hard
 - [3411. Maximum Subarray With Equal Products](3411_Maximum_Subarray_With_Equal_Products.py) – Array, Math – Easy
+
+## Solutions Added — November 25, 2026
+
+- **26. Remove Duplicates from Sorted Array** — `26_Remove_Duplicates_From_Sorted_Array.py` — Two Pointers — Easy
+- **3934. Smallest Unique Subarray** — `3934_Smallest_Unique_Subarray.py` — Suffix Array / LCP — Hard
 
 
 *Note: Times above are local file modification times (IST), not verified LeetCode submission timestamps.*
