@@ -21,7 +21,8 @@ My Python solutions to LeetCode problems, organized by problem number and topic.
 | 3411 | Maximum Subarray With Equal Products | Array, Math  | Easy |
 | 26 | Remove Duplicates from Sorted Array | Two Pointers | Easy |
 | 3934 | Smallest Unique Subarray | Suffix Array / LCP | Hard |
-
+| 27 | Remove Element | Two Pointers | Easy |
+| 3360 | Stone Removal Game | Math / Simulation | Easy |
 
 ## Language
 
@@ -86,6 +87,11 @@ More solutions will be added as I solve new problems.
 - **26. Remove Duplicates from Sorted Array** — `26_Remove_Duplicates_From_Sorted_Array.py` — Two Pointers — Easy
 - **3934. Smallest Unique Subarray** — `3934_Smallest_Unique_Subarray.py` — Suffix Array / LCP — Hard
 
+## Solutions Added - November 26,2026
+
+### November 26, 2026
+- 27. Remove Element — Two Pointers
+- 3360. Stone Removal Game — Math / Simulation
 
 *Note: Times above are local file modification times (IST), not verified LeetCode submission timestamps.*
 
