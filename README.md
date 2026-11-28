@@ -25,6 +25,8 @@ My Python solutions to LeetCode problems, organized by problem number and topic.
 | 3360 | Stone Removal Game | Math / Simulation | Easy |
 | 28 | Find the Index of the First Occurrence in a String | String | Easy |
 | 3946 | Maximum Number of Items From Sale I | Dynamic Programming | Medium |
+| 29 | Divide Two Integers | Bit Manipulation | Medium |
+| 3947 | Maximum Number of Items From Sale II | Greedy, Sorting, Number Theory | Medium |
 
 ## Language
 
@@ -98,6 +100,11 @@ More solutions will be added as I solve new problems.
 
 - **28. Find the Index of the First Occurrence in a String** — `28_Find_the_Index_of_the_First_Occurrence.py` — String — Easy
 - **3946. Maximum Number of Items From Sale I** — `3946_Maximum_Number_of_Items_From_Sale_I.py` — Dynamic Programming — Medium
+
+## Solutions Added — November 28, 2026
+
+- **29. Divide Two Integers** — `29_Divide_Two_Integers.py` — Bit Manipulation — Medium
+- **3947. Maximum Number of Items From Sale II** — `3947_Maximum_Number_of_Items_From_Sale_II.py` — Greedy, Sorting, Number Theory — Medium
 
 *Note: Times above are local file modification times (IST), not verified LeetCode submission timestamps.*
 
